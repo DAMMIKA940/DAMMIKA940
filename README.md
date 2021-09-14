@@ -14,7 +14,7 @@
 
 ---
 ### Languages and Tools:
-<img align="left" alt="React" width="50px" src="https://i.ibb.co/q11QyYw/download-1.png" />
+
 
 <img align="left" alt="React" width="50px" src="https://i.ibb.co/py1stP5/javascript-logo.png" alt="javascript-logo" />
 
