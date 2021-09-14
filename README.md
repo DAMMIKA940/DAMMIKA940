@@ -36,7 +36,13 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [MEAN Stack PDF Upload](https://dammikapadmasiri123.medium.com/mean-stack-pdf-upload-b6e243564282)
-- [Object-Oriented Programming in Java — Java OOPs Concepts]https://dammikapadmasiri123.medium.com/object-oriented-programming-in-java-java-oops-concepts-2a71c869d0d4)
+- [Object-Oriented Programming in Java — Java OOPs Concepts](https://dammikapadmasiri123.medium.com/object-oriented-programming-in-java-java-oops-concepts-2a71c869d0d4)
 - [Understanding IP Addresses](https://dammikapadmasiri123.medium.com/understanding-ip-addresses-3ea2cce19202)
 
 <!-- BLOG-POST-LIST:END -->
+---
+
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DAMMIKA940&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+
