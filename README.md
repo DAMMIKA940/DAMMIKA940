@@ -2,7 +2,7 @@
 
 
 
----
+
 
 - 🌱 I’m currently studying at University of Moratuwa.
 - 💬 Ask me about mean stack
@@ -11,8 +11,20 @@
 - ⚡ Fun fact: I like listen song 
 
 
+### 🔍Connect with me:
 
----
+   <a href="https://www.linkedin.com/in/dammika-rajapaksha-5a53751ba/"><img align="left" alt="codeSTACKr | LinkedIn" width="29px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+    <a href="https://www.facebook.com/"><img align="left" alt="codeSTACKr | LinkedIn" width="30px" src="https://i.ibb.co/z4ZQTmz/fe0ab67fa0de2b2681602db5708a076f50dd21106e0c2d38b9661875a37e235e-200.jpg" /></a>  
+    
+ <a href="dammikapadmasiri123.medium.com
+"><img align="left" alt="codeSTACKr | LinkedIn" width="35px" src="https://i.ibb.co/PhsGSzb/unnamed.png" /></a>  
+    
+
+    
+<br>
+ 
+ 
+--- 
 ### Languages and Tools:
 
 
@@ -38,15 +50,7 @@
 <br />
 
 ---
-### 📕 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- [MEAN Stack PDF Upload](https://dammikapadmasiri123.medium.com/mean-stack-pdf-upload-b6e243564282)
-- [Object-Oriented Programming in Java — Java OOPs Concepts](https://dammikapadmasiri123.medium.com/object-oriented-programming-in-java-java-oops-concepts-2a71c869d0d4)
-- [Understanding IP Addresses](https://dammikapadmasiri123.medium.com/understanding-ip-addresses-3ea2cce19202)
-
-<!-- BLOG-POST-LIST:END -->
----
 
  ### <summary>:zap: GitHub Stats</summary>
 
