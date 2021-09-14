@@ -19,8 +19,10 @@
  <a href="dammikapadmasiri123.medium.com
 "><img align="left" alt="codeSTACKr | LinkedIn" width="35px" src="https://i.ibb.co/PhsGSzb/unnamed.png" /></a>  
     
-
-    
+     <a href="https://www.hackerrank.com/rapd96?hr_r=1
+"><img align="left" alt="codeSTACKr | LinkedIn" width="35px" src="https://i.ibb.co/WWkmJdP/Hacker-Rank-Icon-1000px.png" /></a>  
+   
+  
 <br>
  
  
