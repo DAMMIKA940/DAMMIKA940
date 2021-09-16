@@ -56,7 +56,19 @@
 ---
 
 
- ### <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DAMMIKA940&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+  ## Statistics...✨
 
+
+<img src="https://github-readme-stats.vercel.app/api?username=DAMMIKA940&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=DAMMIKA940&theme=radical"/>|
+|---|---|
+</br>
+
+
+## Most Used Programming Languages...✨
+</br>
+<p align="center"><img align="center"
+src="https://github-readme-stats.vercel.app/api/top-langs?username=DAMMIKA940&show_icons=true&locale=en&layout=compact&theme=radical"alt="Theekshana96" /></p>
+
+</br>
+</br>
