@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently studying at University of Moratuwa.
 - 💬 Ask me about mean stack
-- 📫 How to reach me: www.linkedin.com/in/dammika
+- 📫 How to reach me: dammikar1996@gmail.com
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I like listen song 
 
