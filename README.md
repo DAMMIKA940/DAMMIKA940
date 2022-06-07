@@ -1,14 +1,14 @@
-### Hi I'm Dammika Rajapaksha 👋
 
 
+<h2 align="center">  Hi I'm Dammika Rajapaksha 👋</h2>
 
-
-
-- 🌱 I’m currently studying at University of Moratuwa.
-- 💬 Ask me about mean stack
+- 💞️ I’m passionate in Full Stack Web Development
+- 🌱 I’m currently learning MERN Stack,MEAN Stack, Firebase
+- 💬 Ask me about MERN, ANGULAR, MySQL
+- 👯 I’m looking to collaborate with other content creators
 - 📫 How to reach me: dammikar1996@gmail.com
-- 😄 Pronouns: he/his
-- ⚡ Fun fact: I like listen song 
+
+
 
 
 ### 🔍Connect with me:
@@ -32,22 +32,15 @@
 ### Languages and Tools:
 
 
-<img align="left" alt="React" width="50px" src="https://i.ibb.co/py1stP5/javascript-logo.png" alt="javascript-logo" />
-
-
-<img align="left" alt="React" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
-<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="HTML5" width="50px" src="https://i.ibb.co/NnLfQm8/download.png" />
-<img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Node.js" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-
-<img align="left" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="MongoDB" width="50px"  src="https://i.ibb.co/4FrsGzR/ionic-icon.png" />
-<img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
+<img align="left" alt="react" width="50" height="45" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
+<img align="left" alt="node" width="50" height="45" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
+<img align="left" alt="express" width="50" height="45" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="mysql" />
+<img align="left" alt="angular" width="50" height="45" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" />
+<img align="left" alt="mysql" width="70" height="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" />
+<img align="left" alt="mongo" width="80" height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" />
+<img align="left" alt="aws" width="80" height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" />
+<img align="left" alt="js" width="50" height="45" src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg" />
+<img align="left" alt="java" width="50" height="45" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
 
 
 <br />
@@ -68,7 +61,14 @@
 ## Most Used Programming Languages...✨
 </br>
 <p align="center"><img align="center"
-src="https://github-readme-stats.vercel.app/api/top-langs?username=DAMMIKA940&show_icons=true&locale=en&layout=compact&theme=radical"alt="Theekshana96" /></p>
+src="https://github-readme-stats.vercel.app/api/top-langs?username=DAMMIKA940&show_icons=true&locale=en&layout=compact&theme=radical"alt="DAMMIKA940" /></p>
 
 </br>
 </br>
+</br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Theekshana96&label=Profile%20views&color=0e75b6&style=flat" alt="Theekshana96" /></p>
+<p align="center"> <img src="https://badges.pufler.dev/years/Theekshana96" alt="Theekshana96" />
+
+ <br />
+ 
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
