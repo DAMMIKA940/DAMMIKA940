@@ -69,6 +69,9 @@ src="https://github-readme-stats.vercel.app/api/top-langs?username=DAMMIKA940&sh
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=DAMMIKA940&label=Profile%20views&color=0e75b6&style=flat" alt="DAMMIKA940" /></p>
 <p align="center"> <img src="https://badges.pufler.dev/years/DAMMIKA940" alt="DAMMIKA940" />
 
- <br />
+
+   <br />
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DAMMIKA940&no-frame=true&row=1&column=7&theme=radical" alt="DAMMIKA940" /></a> </p>
+<br />
  
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
