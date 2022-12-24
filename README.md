@@ -71,7 +71,8 @@ src="https://github-readme-stats.vercel.app/api/top-langs?username=DAMMIKA940&sh
 <br />
 </br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=DAMMIKA940&label=Profile%20views&color=0e75b6&style=flat" alt="DAMMIKA940" /></p>
-<p align="center"> <img src="https://badges.pufler.dev/years/DAMMIKA940" alt="DAMMIKA940" />
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+
 
 
  
