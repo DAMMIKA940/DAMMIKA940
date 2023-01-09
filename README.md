@@ -4,7 +4,7 @@
 
 - 💞️ I’m passionate in Full Stack Web Development
 - 🌱 I’m currently learning MERN Stack,MEAN Stack, Firebase
-- 💬 Ask me about MERN, ANGULAR, MySQL
+- 💬 Ask me about MERN, MEAN, MySQL
 - 👯 I’m looking to collaborate with other content creators
 - 📫 How to reach me: dammikar1996@gmail.com
 
