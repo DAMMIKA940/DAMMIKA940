@@ -40,7 +40,7 @@
 <img align="left" alt="mongo" width="80" height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" />
 <img align="left" alt="aws" width="80" height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" />
 <img align="left" alt="js" width="50" height="45" src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg" />
-<img align="left" alt="js" width="50" height="45" src="https://www.vectorlogo.zone/logos/cloudinary/cloudinary-vertical.svg" />
+<img align="left" alt="js" width="50" height="45" src="https://www.vectorlogo.zone/logos/cloudinary" />
 <img align="left" alt="java" width="50" height="45" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
 
 
